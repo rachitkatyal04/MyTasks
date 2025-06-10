@@ -16,6 +16,16 @@ MyTasks is a modern, feature-rich task management application built with React N
 - **Modern UI**: Dark theme with beautiful animations and responsive design
 - **Mobile Optimized**: Proper spacing to avoid camera/notch overlap on modern phones
 
+## 📸 Glimpse of MyTasks
+
+Here’s a sneak peek into what MyTasks looks like in action:
+
+  ![MyTasks App Demo](https://github.com/user-attachments/assets/1883754b-7aca-49be-ac2a-04cc67eb31d9)
+  
+  ![MyTasks App Demo](https://github.com/user-attachments/assets/41ba4f62-5624-4bc4-86d0-2ff687aaf71d)
+
+
+
 ## 🚀 Setup Instructions
 
 ### Prerequisites
